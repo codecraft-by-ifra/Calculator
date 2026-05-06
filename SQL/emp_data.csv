@@ -1,0 +1,11 @@
+emp_id,first_name,last_name,department,salary,joining_date,age
+1,Ali,Khan,IT,75000,2024-01-10,25
+2,Sara,Ahmed,HR,60000,2023-11-05,28
+3,Usman,Ali,Finance,85000,2022-07-20,30
+4,Ayesha,Malik,Marketing,70000,2024-03-15,24
+5,Hassan,Raza,IT,90000,2021-09-01,32
+6,Fatima,Noor,HR,65000,2023-05-12,27
+7,Bilal,Shaikh,Finance,80000,2022-02-28,29
+8,Zain,Hassan,IT,95000,2020-12-11,35
+9,Mariam,Iqbal,Marketing,72000,2024-06-01,26
+10,Omar,Farooq,Admin,55000,2023-08-18,31
